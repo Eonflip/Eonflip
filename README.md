@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Eonflip
-- 👀 I’m interested in IT & Programming
-- 🌱 I’m currently learning Network+, HTML, CSS, JavaScript, Python, Command Line
+- 👋 Hi, I’m @Eonflip (aka Ian Jones)
+- 👀 I’m interested in Cybersecurity, Web Development, and Cloud Computing
+- 🌱 I’m currently learning Networking, HTML, CSS, JavaScript, Python, Command Line, C++ and Raspberry Pi.
 - 💞️ I’m looking to collaborate on anything at the moment, I have so much to learn. 
-- 📫 How to reach me: ianj1993@outlook.com
+- 📫 How to reach me: ianj1993@gmail.com
 
 <!---
 Eonflip/Eonflip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

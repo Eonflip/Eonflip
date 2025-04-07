@@ -20,7 +20,9 @@ Welcome to my Github! This is where I document my tech learning journey, from so
 
 ## ⚙ Tech Stack
 **Languages**: Python, C, JavaScript, Bash, HTML, CSS
+
 **Tools**: Linux, Git, Docker, Ansible, Proxmox
+
 **Platforms**: TryHackMe, Hack The Box, Notion, Github, Obsidian
 
 ---

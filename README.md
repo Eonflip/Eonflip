@@ -8,9 +8,9 @@ Welcome to my Github! This is where I document my tech learning journey, from so
 
 ## 🧠 What I'm Learning
 - 📚 Studying for **Computer Science Degree, CompTIA Network+, CompTIA Security+**
-- 🔐 Completing **TryHackMe Security Engineer Path**
+- 🔐 Completing **TryHackMe Defensive Security Path**
 - 💥 Practicing real-world challenges on **Hack The Box**
-- 🛠 Building and Automating with **Proxmox**, **Ansible**, and **Docker**
+- 🛠 Building and Automating in my Homelab with **Proxmox**, **Ansible**, **Bash** and **Docker**
 
 ---
 
@@ -23,12 +23,12 @@ Welcome to my Github! This is where I document my tech learning journey, from so
 
 **Tools**: Linux, Git, Docker, Ansible, Proxmox
 
-**Platforms**: TryHackMe, Hack The Box, Notion, Github, Obsidian
+**Platforms**: GitHub, Notion, Jira, Confluence, Obsidian, TryHackMe, Hack The Box
 
 ---
 
 ## 🤝 Let's Connect
-- 🕸 [eonflip.github.io](https://eonflip.github.io)
+- 🕸 [Portfolio Site](http://eonflip.github.io/foliofish/)
 - 🔗 [LinkedIn](https://linkedin.com/in/ianj1993)
 - 🕵️‍♀️ TryHackMe: `@Eonloop`
 - 🎁 Hack The Box: `@Eonflip`

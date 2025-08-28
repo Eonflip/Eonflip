@@ -1,15 +1,23 @@
-## 👋 Hey, I'm Ian
+## Hey, I'm Ian 👋
 
-🎓 Computer Science Student @ CU Boulder | 🔐 Cybersecurity Enthusiast | 🛠 Homelab Tinkerer | 💻 Aspiring DevOps Engineer
-
-Welcome to my Github! This is where I document my tech learning journey, from software and automating my homelab, to hacking labs and certifications.
+A Computer Science student at CU Boulder with a passion for building the bridge between software development and IT operations. As an aspiring DevOps Engineer, I spend my time automating infrastructure, securing systems, and tinkering in my homelab. This GitHub is my workshop where I document my projects and learning journey in Computer Science and IaC.
 
 ---
 
-## 🧠 What I'm Learning
-- 📚 Studying for **Computer Science Degree, CompTIA Security+**
-- 🔐 Completing **TryHackMe Defensive Security Path**
-- 🛠 Building and Automating in my Homelab with **Python**, **Proxmox**, **Packer**, **Terraform**, **Ansible**, **Bash** and **Docker**
+## 🧠 My Current Focus
+
+I'm currently focused on building a holistic skill set that spans software development, IT operations, and project management.
+Building a T-Shaped Foundation: I'm complementing my Computer Science degree with professional certifications to build a holistic understanding of the tech lifecycle:
+
+  🔐 Security+: For writing secure and resilient code.
+
+  ⚙️ ITIL: For understanding IT service management and operations.
+
+  📈 CAPM: For learning project management and efficient delivery.
+
+Hands-On DevOps & IaC: My main passion is my homelab, where I'm using Proxmox, Terraform, Ansible, Packer, and Kubernetes to automate everything from bare-metal provisioning to application deployment.
+
+Practical Cybersecurity Skills: I'm actively sharpening my defensive security knowledge by working through the TryHackMe Defensive Security Path.
 
 ---
 
@@ -17,12 +25,12 @@ Welcome to my Github! This is where I document my tech learning journey, from so
 
 ---
 
-## ⚙ Tech Stack
-**Languages**: Python, C, JavaScript, Bash, HTML, CSS
+## 💾 Tech Stack
+**Languages**: Python, JavaScript, HTML, CSS, Bash, C
 
-**Tools**: Linux, Git, Docker, Ansible, Proxmox
+**Tools**: Linux, Git, Docker, Ansible, Terraform, Packer, Proxmox
 
-**Platforms**: GitHub, Notion, Jira, Confluence, Obsidian
+**Platforms**: GitHub, Notion, Jira, Confluence, SharePoint, Obsidian
 
 ---
 
@@ -30,18 +38,3 @@ Welcome to my Github! This is where I document my tech learning journey, from so
 - 🕸 [Portfolio Site](https://ijjtech.net)
 - 🔗 [LinkedIn](https://linkedin.com/in/ianj1993)
 - 🕵️‍♀️ TryHackMe: `@Eonloop`
-
-<!--
-**Eonflip/Eonflip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

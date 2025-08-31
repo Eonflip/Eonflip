@@ -1,4 +1,4 @@
-## Hey, I'm Ian 👋
+## Welcome! I'm Ian 🧑‍🌾 🌄 💾 📖
 
 A Computer Science student at CU Boulder with a passion for building the bridge between software development and IT operations. As an aspiring DevOps Engineer, I spend my time automating infrastructure, securing systems, and tinkering in my homelab. This GitHub is my workshop where I document my projects and learning journey in Computer Science and IaC.
 
